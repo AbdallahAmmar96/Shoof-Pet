@@ -54,4 +54,3 @@ I can sign up in the website and login to it and i can make a post about missing
  6 - As a user, I want to be able to take my reward after finding the lost pet.
 
  7 - As a user, I want to be able to see posts and filter them by location.
-
